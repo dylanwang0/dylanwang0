@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Dylan Wang! I am a first year university student studying computer science at the University of Waterloo. 👋
 
 <!--
 **dylanwang0/dylanwang0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
