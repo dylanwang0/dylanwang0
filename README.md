@@ -7,6 +7,8 @@
 
 ![Dylan Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanwang0&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanwang0)](https://github.com/dylanwang0/github-readme-stats)
+
 
 
 
