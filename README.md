@@ -5,14 +5,15 @@
 - 🌱 I’m currently learning data science
 - 😄 Pronouns: he/him
 
-![Dylan Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanwang0&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanwang0&langs_count=8&theme=radical&layout=compact)](https://github.com/dylanwang0/github-readme-stats)
-
 ## My Personal Wesbite
 A personal website I created over the summer to display my skills and experiences.
 
 [![Personal Website](website.png "Personal Website")](https://dylanwang0.github.io)
+
+## My Github Stats
+![Dylan Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanwang0&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanwang0&langs_count=8&theme=radical&layout=compact)](https://github.com/dylanwang0/github-readme-stats)
 
 ## Contacts
 - Email: dylan.s.wang@gmail.com
