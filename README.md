@@ -9,11 +9,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanwang0&langs_count=8&theme=radical&layout=compact)](https://github.com/dylanwang0/github-readme-stats)
 
-# My Personal Wesbite
+## My Personal Wesbite
 A personal website I created over the summer to display my skills and experiences.
 
 [![Personal Website](website.png "Personal Website")](https://dylanwang0.github.io)
 
+## Contacts
+- Email: dylan.s.wang@gmail.com
+- LinkedIn: https://www.linkedin.com/in/dylanswang/
 
 
 <!--
