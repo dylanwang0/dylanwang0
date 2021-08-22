@@ -12,7 +12,7 @@
 ## My Personal Wesbite
 A personal website I created over the summer to display my skills and experiences.
 
-[![Personal Website](website.png "Personal Website")](https://dylanwang0.github.io)
+[![Personal Website](website2.png "Personal Website")](https://dylanwang0.github.io)
 
 ## Contacts
 - Email: dylan.s.wang@gmail.com
