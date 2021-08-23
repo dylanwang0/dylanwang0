@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning data science
 - 😄 Pronouns: he/him
 
+
 ## My Personal Wesbite
 A personal website I created over the summer to display my skills and experiences.
 
