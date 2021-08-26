@@ -1,8 +1,10 @@
 # Hello, I'm Dylan Wang! 👋
 #### I am an incoming Computer Science student at the University of Waterloo.
 
-- 🔭 I’m currently working on my personal website
-- 🌱 I’m currently learning data science
+- 🔭 I graduated from Richmond Hill High School in Ontario, Canada
+- 🌱 I enjoy competitive programming and learning new algorithms
+- 👯 I'm also interested in web development and created my own personal website
+- 🤔 I've recently began learning data science, diving into topics like Natural Language Processing
 - 😄 Pronouns: he/him
 
 
