@@ -1,5 +1,5 @@
 # Hello, I'm Dylan Wang! 👋
-#### I am an incoming Computer Science student at the University of Waterloo.
+#### I am a first year Computer Science student at the University of Waterloo.
 
 - 🔭 I graduated from Richmond Hill High School in Ontario, Canada
 - 🌱 I enjoy competitive programming and learning new algorithms
