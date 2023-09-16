@@ -1,11 +1,12 @@
 # Hello, I'm Dylan Wang! 👋
-#### I am a second year Computer Science student at the University of Waterloo.
+#### I am a third year Computer Science student at the University of Waterloo.
 
-- 🔭 I graduated from Richmond Hill High School in Ontario, Canada
-- 🌱 I enjoy competitive programming and learning new algorithms
-- 👯 I'm also interested in web development and created my own personal website
-- 🤔 I've recently began learning data science, diving into topics like Natural Language Processing
-- 😄 Pronouns: he/him
+- 🌱 Algorithms
+- 🎮 Data Structures
+- 🍄 Web Development
+- 💻 Machine Learning
+- 🍏 Full Stack Development
+- ⌛ Backend Engineering
 
 
 ## My Personal Wesbite
