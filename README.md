@@ -1,5 +1,5 @@
 # Hello, I'm Dylan Wang! 👋
-#### I am a third year Computer Science student at the University of Waterloo.
+#### I am a fourth year Computer Science student at the University of Waterloo.
 
 - 🌱 Algorithms
 - 🎮 Data Structures
